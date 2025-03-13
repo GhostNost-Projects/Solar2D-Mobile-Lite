@@ -1,0 +1,9 @@
+settings = {
+    orientation = { default = 'portrait', supported = { 'portrait' } },
+	android = { minSdkVersion = '19', versionCode = '14', versionName = 'Alpha 0.14', usesPermissions = {
+        'android.permission.INTERNET',
+        'android.permission.WRITE_EXTERNAL_STORAGE',
+        'android.permission.READ_EXTERNAL_STORAGE' }
+        },
+ 
+    splashScreen = { enable = false } }

@@ -1,0 +1,16 @@
+return {
+ lua = "sprites/files/lua.png",
+ json = "sprites/files/json.png",
+ png = "sprites/files/image.png",
+ jpg = "sprites/files/image.png",
+ gif = "sprites/files/image.png",
+ bmp = "sprites/files/image.png",
+ tiff = "sprites/files/image.png",
+ ttf = "sprites/files/fonts.png",
+ otf = "sprites/files/fonts.png",
+ mp3 = "sprites/files/sounds.png",
+ wav = "sprites/files/sounds.png",
+ aac = "sprites/files/sounds.png",
+ flac = "sprites/files/sounds.png",
+ ogg = "sprites/files/sounds.png",
+ m4a = "sprites/files/sounds.png" }
